@@ -31,4 +31,4 @@ La información a devolver es la siguiente:
 <br>
 
 
-[Dirección Local: http://localhost:3000/busqueda?name="nombre_pelicula"](http://localhost:3000/busqueda?name="El Señor de los Anillos")
+[Dirección Local: ](http://localhost:3000/busqueda?name="El Señor de los Anillos")
